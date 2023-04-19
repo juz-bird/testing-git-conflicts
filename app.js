@@ -6,4 +6,8 @@ let iceCreams = ['chocolate', 'strawberry', 'grapes'];
 
 let withWhat = ['seafood', 'chicken', 'pork'];
 
-console.log(withWhat);
+const fruits = {
+    apple: 234,
+    orange: 123,
+    watermelon: 456
+}
