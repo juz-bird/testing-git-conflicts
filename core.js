@@ -11,3 +11,5 @@ let animals = {
 }
 
 console.log('hello world')
+
+console.log('seeing the world as digital')
