@@ -21,3 +21,5 @@ console.log('seeing the world as digital')
 const setURL = () => {
     <h1>Set URL</h1>
 }
+
+const PI = 3.14
