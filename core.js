@@ -21,3 +21,7 @@ console.log('seeing the world as digital')
 const setURL = () => {
     <h1>Set URL</h1>
 }
+
+const testingOneTwo = () => {
+    'testing One Two'
+}
