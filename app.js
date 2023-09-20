@@ -11,3 +11,5 @@ const fruits = {
     orange: 123,
     watermelon: 456
 }
+
+var hello = "world";
